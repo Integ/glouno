@@ -31,7 +31,3 @@ MeterInterface.pdf Bayer血糖仪官方文档，含接口引脚，数据格式�
 glooko + bluno
 
 sent diabetes data to mobile phone with bluetooth by bluno.
-<<<<<<< HEAD
->>>>>>> FETCH_HEAD
-=======
->>>>>>> FETCH_HEAD

@@ -1,7 +1,6 @@
 gluno
 ======
 
-<<<<<<< HEAD
 gluno ＝ glooko + bluno
 
 －－－－－－－－－
